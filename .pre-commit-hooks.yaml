@@ -1,0 +1,5 @@
+- id: check-print-statements
+  name: Check Print Statements
+  entry: python3 check_print_statements.py
+  language: python
+  files: \.py$
